@@ -16,4 +16,4 @@ Firmware for the Marlin 3D printer. 3D printing is an interesting and expansive 
 
 https://github.com/github/gitignore.git - 
 Allows the user to easily implement the function to ignore certain files when pushing to a repo, in order to only get the uncompiled raw code.
-                                                                       Extremely useful for developers using git, and students that need to use it so it will increase the speed of pushing the files.                                                                       
+Extremely useful for developers using git, and students that need to use it so it will increase the speed of pushing the files.                                                                       
