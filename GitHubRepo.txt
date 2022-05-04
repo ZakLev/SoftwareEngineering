@@ -1,1 +1,8 @@
-"Hello World!"
+﻿https://github.com/o3de/o3de.git - Open 3D Engine that let's developers make AAA type games and cinematics without having to pay for expensive software. The Language is
+                                                               C++, so it should be usable for me.
+https://github.com/skyline-emu/skyline.git - An android emulaor that emulates Nintendo Switch funcionality. The developers have their discord and allow users to contact them with questions.
+https://github.com/CleverRaven/Cataclysm-DDA.git - A survival game that is ope-source on github. Seems interesting and is improving. It looks like a good example of a way a game might be made by a team.
+https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series.git - A repo made to help students easily access CodeHelp. Seems like a good repo for a students learning developing.
+https://github.com/MarlinFirmware/Marlin.git - Firmware for the Marlin 3D printer. 3D printing is an interesting and expansive topic and industry that i enjoy.
+https://github.com/github/gitignore.git - Allows the user to easily implement the function to ignore certain files when pushing to a repo, in order to only get the uncompiled raw code.
+                                                                       Extremely useful for developers using git, and students that need to use it so it will increase the speed of pushing the files.                                                                       
