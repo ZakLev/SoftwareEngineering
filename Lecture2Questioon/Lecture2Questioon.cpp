@@ -5,9 +5,9 @@
 
 int main()
 {
-    std::cout << "What your favorite Banana Color?\n Response: ";
-    char response[24];
-    std::cin >> response;
+    std::cout << "What your favorite Banana Color?\n Response: "; // Question to User
+    char response[24]; // Response
+    std::cin >> response; // get User Response
     return 0;
 }
 
